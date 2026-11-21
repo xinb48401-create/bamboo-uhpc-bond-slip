@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime artefacts of the tool
+Bamboo_UHPC_url.txt
+Bamboo_UHPC_error.log
+
+# Batch export output
+27_cases_batch_output/
+27_cases_curve_points.csv
+27_cases_batch_results.xlsx
+EXPORT_README.txt
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
